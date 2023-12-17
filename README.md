@@ -23,5 +23,5 @@
 
 ### <p align="center">Visitor counter<p>
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/MostafaGalal1/count.svg" />
+  <img src="https://profile-counter.glitch.me/Moaz2025/count.svg" />
 </p>
