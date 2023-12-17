@@ -1,4 +1,11 @@
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="250" align="left" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
+<div align="right">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moaz2025&show_icons=true&include_all_commits=true&count_private=true&text_color=FFA718&theme=transparent&show_icons=true"
+alt="Moaz2025"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Moaz2025&show_icons=true&locale=en&layout=compact&langs_count=20&icon_color=2fcca3&text_color=FFA718&theme=transparent&show_icons=true" alt="Moaz2025"/>
+
+</div>
 
 <h3 align="center">
   Welcome to Moaz AbdulFattah's profile!
