@@ -1,4 +1,3 @@
-
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
@@ -21,3 +20,8 @@
 <a href="https://linkedin.com/in/moaz-abdulfattah-2005ab22b/" target="_blank"><img src="https://img.shields.io/badge/-Moaz%20AbdulFattah-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,r,git,github,idea,vscode,arduino,ps)](https://skillicons.dev)
+
+### <p align="center">Visitor counter<p>
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/MostafaGalal1/count.svg" />
+</p>
