@@ -1,11 +1,20 @@
-<img width="250" align="left" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Moaz2025&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Moaz2025&theme=dark&hide_border=false" /> 
+</td>
 
-<div align="right">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moaz2025&show_icons=true&include_all_commits=true&count_private=true&text_color=FFA718&theme=transparent&show_icons=true"
-alt="Moaz2025"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Moaz2025&show_icons=true&locale=en&layout=compact&langs_count=20&icon_color=2fcca3&text_color=FFA718&theme=transparent&show_icons=true" alt="Moaz2025"/>
+<td width="50%" align="center">
 
-</div>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Moaz2025&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
 
 <h3 align="center">
   Welcome to Moaz AbdulFattah's profile!
@@ -26,7 +35,7 @@ alt="Moaz2025"/>
 
 <a href="https://linkedin.com/in/moaz-abdulfattah-2005ab22b/" target="_blank"><img src="https://img.shields.io/badge/-Moaz%20AbdulFattah-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,r,git,github,idea,vscode,arduino,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,js,r,spring,git,github,idea,vscode,arduino,ps)](https://skillicons.dev)
 
 ### <p align="center">Visitor counter<p>
 <p align="center"> 
